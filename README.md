@@ -11,7 +11,7 @@ This is a workshop for NWU students on the basics of Git and Github, presented b
 * [Github](https://github.com/coenraadhuman/git-github-dojo/blob/master/docs/github.md)
 * [Git Terminal](https://github.com/coenraadhuman/git-github-dojo/blob/master/docs/git-terminal.md)
 * [GitKraken](https://github.com/coenraadhuman/git-github-dojo/blob/master/docs/gitkraken.md)
-
+Ryan Was Here
 # Resources
 
 ## Git
